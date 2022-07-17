@@ -1,4 +1,4 @@
-# hackathons
+# Hackathons
 
 This is the repository for all hackatons
 
